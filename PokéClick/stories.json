@@ -1,0 +1,933 @@
+{
+    "1": {
+        "positionLeft"	: "380px",
+        "positionTop"	: "456px",
+        "orientation"	: "image/ArcaninTop.gif",
+        "script"		: [{
+        	"imgSrc"		: "image/Bourg_Palette.png",
+        	"text"			: {
+        		"text"		: "Arcanin se réveilla au bord de l'eau.<br>Arcanin - (Où suis je ? Je suis trempé ! C'est quoi ça ? Juste un bateau échoué, mais dans un endroit pareil, c'est étonnant... Un village, il est bien désert je trouve.)"
+        	},
+	        "positionLeft"	: "370px",
+	        "positionTop"	: "500px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "none"
+        }, {
+        	"imgSrc"		: "image/Bourg_Palette.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (Il faut que je trouve quelqu'un.)"
+        	},
+	        "positionLeft"	: "370px",
+	        "positionTop"	: "0px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "6s linear"
+        }, {
+        	"imgSrc"		: "image/Route_1_(Kanto).png",
+        	"text"			: {
+        		"text"		: "Arcanin - (Il faut que je trouve quelqu'un.)"
+        	},
+	        "positionLeft"	: "174px",
+	        "positionTop"	: "590px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.5s linear",
+	        "startPosition"	: {
+	        	"positionLeft"	: "174px",
+	        	"positionTop"	: "669px"
+	        }
+        }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+        	"text"			: {
+        		"text"		: "Arcanin - Salut toi ! J'aurais besoin...<br>Rattata - Je t'ai vu ! Tu viens de ce bateau ! Tu est l'un d'eux ! Je ne te laisserais pas passer !",
+        		"img"		: "image/Rattata.png"
+        	},
+	        "positionLeft"	: "70px",
+	        "positionTop"	: "590px",
+			"orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Rattata.gif",
+	        	"positionLeft"	: "35px",
+	        	"positionTop"	: "582px",
+	        	"imgFight"		: "image/Rattata.png"
+	        }],
+	        "imgFight"		: "image/Rattata.png"
+        }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+	        "positionLeft"	: "39px",
+	        "positionTop"	: "590px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "0.2s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Roucool.gif",
+	        	"positionLeft"	: "270px",
+	        	"positionTop"	: "507px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+	        "positionLeft"	: "49px",
+	        "positionTop"	: "544px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.4s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Roucool.gif",
+	        	"positionLeft"	: "270px",
+	        	"positionTop"	: "507px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+	        "positionLeft"	: "241px",
+	        "positionTop"	: "551px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "1.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Roucool.gif",
+	        	"positionLeft"	: "270px",
+	        	"positionTop"	: "507px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+	        "positionLeft"	: "253px",
+	        "positionTop"	: "523px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.3s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Roucool.gif",
+	        	"positionLeft"	: "270px",
+	        	"positionTop"	: "507px"
+	        }],
+	    	"imgFight"		: "image/Roucool.png"
+        }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+	        "positionLeft"	: "272px",
+	        "positionTop"	: "316px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "2s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Rattata.gif",
+	        	"positionLeft"	: "236px",
+	        	"positionTop"	: "270px"
+	        }],
+	        "imgFight"		: "image/Rattata.png"
+        }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+	        "positionLeft"	: "280px",
+	        "positionTop"	: "185px",
+	        "transition"	: "1.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Roucool.gif",
+	        	"positionLeft"	: "234px",
+	        	"positionTop"	: "172px"
+	        }],
+	    	"imgFight"		: "image/Roucool.png"
+        }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+	        "positionLeft"	: "274px",
+	        "positionTop"	: "137px",
+			"orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Roucoups.gif",
+	        	"positionLeft"	: "137px",
+	        	"positionTop"	: "68px"
+	        }]
+	    }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+	        "positionLeft"	: "133px",
+	        "positionTop"	: "137px",
+			"orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Roucoups.gif",
+	        	"positionLeft"	: "137px",
+	        	"positionTop"	: "68px"
+	        }]
+	    }, {
+         	"imgSrc"		: "image/Route_1_(Kanto).png",
+        	"text"			: {
+         		"text"		: "Roucoups - Rattata ma averti que tu étais passé, mais je ne me laisserais prendre aussi facilement !<br>Arcanin - Je vous l'ai dis, je veux juste passer !<br>Roucoups - Ton groupe nous a déja fait le coup, ça ne fonctionnera pas deux fois.",
+        		"img"		: "image/Roucoups.png"
+        	},
+	        "positionLeft"	: "136px",
+	        "positionTop"	: "97px",
+			"orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Roucoups.gif",
+	        	"positionLeft"	: "137px",
+	        	"positionTop"	: "68px"
+	        }],
+	        "imgFight"		: "image/Roucoups.png"
+        }]
+    },
+
+    "2": {
+    	"positionLeft"	: "368px",
+        "positionTop"	: "300px",
+        "orientation"	: "image/ArcaninTop.gif",
+        "script"		: [{
+        	"imgSrc"		: "image/Jadielle.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (C'est toujours aussi calme par ici ? C'est bizzard.)"
+        	},
+	        "positionLeft"	: "638px",
+	        "positionTop"	: "547px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "none"
+        }, {
+        	"imgSrc"		: "image/Jadielle.png",
+        	"positionLeft"	: "638px",
+	        "positionTop"	: "513px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.2s linear"
+        }, {
+        	"imgSrc"		: "image/Jadielle.png",
+	        "positionLeft"	: "500px",
+	        "positionTop"	: "510px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "1.5s linear"
+        }, {
+        	"imgSrc"		: "image/Jadielle.png",
+        	"text"			: {
+        		"text"		: "Arcanin - EH OH ! (Personne ?.. Il se passe quelque chose d'anormal. Et puis qui était ce groupe dont parlait Roucoups ?)"
+        	},
+	        "positionLeft"	: "500px",
+	        "positionTop"	: "0px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "5s linear"
+        }, {
+         	"imgSrc"		: "image/Route_2_(Kanto).png",
+        	"text"			: {
+        		"text"		: "Arcanin - (J'imagine qu'ils vont m'attaquer.)<br>Nidoran♀ - OH NON ! Il est déja là !<br>Arcanin - (Et voila.)",
+        		"img"		: "image/Nidoran♀.png"
+        	},
+	        "positionLeft"	: "77px",
+	        "positionTop"	: "642px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Nidoran♀.gif",
+	        	"positionLeft"	: "100px",
+	        	"positionTop"	: "637px"
+	        }],
+	        "imgFight"		: "image/Nidoran♀.png",
+	        "startPosition"	: {
+	        	"positionLeft"	: "12px",
+	        	"positionTop"	: "650px"
+	        }
+        }, {
+         	"imgSrc"		: "image/Route_2_(Kanto).png",
+	        "positionLeft"	: "68px",
+	        "positionTop"	: "597px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Chenipan.gif",
+	        	"positionLeft"	: "42px",
+	        	"positionTop"	: "577px"
+	        }],
+	        "imgFight"		: "image/Chenipan.png"
+        }, {
+         	"imgSrc"		: "image/Route_2_(Kanto).png",
+	        "positionLeft"	: "100px",
+	        "positionTop"	: "583px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Nidoran♂.gif",
+	        	"positionLeft"	: "103px",
+	        	"positionTop"	: "542px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_2_(Kanto).png",
+	        "positionLeft"	: "105px",
+	        "positionTop"	: "562px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.2s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Nidoran♂.gif",
+	        	"positionLeft"	: "103px",
+	        	"positionTop"	: "542px"
+	        }],
+	        "imgFight"		: "image/Nidoran♂.png"
+        }, {
+         	"imgSrc"		: "image/Route_2_(Kanto).png",
+	        "positionLeft"	: "39px",
+	        "positionTop"	: "540px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Aspicot.gif",
+	        	"positionLeft"	: "23px",
+	        	"positionTop"	: "504px"
+	        }],
+	        "imgFight"		: "image/Aspicot.png"
+        }, {
+         	"imgSrc"		: "image/Route_2_(Kanto).png",
+        	"text"			: {
+         		"text"		: "Dardargnan - Je ne suis pas sûre que tu sois un méchant mais je ne peux pas te laisser passer.<br>Arcanin - Je peux savoir pourquoi ?<br>Dardargnan - Pour rien, pour rien.",
+        		"img"		: "image/Dardargnan.png"
+        	},
+	        "positionLeft"	: "71px",
+	        "positionTop"	: "470px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Dardargnan.gif",
+	        	"positionLeft"	: "63px",
+	        	"positionTop"	: "435px"
+	        }],
+	        "imgFight"		: "image/Dardargnan.png"
+        }]
+    },
+
+    "3": {
+    	"positionLeft"	: "368px",
+        "positionTop"	: "203px",
+        "orientation"	: "image/ArcaninTop.gif",
+        "script"		: [{
+        	"imgSrc"		: "image/Forêt_de_Jade.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (La Forêt... de Jade, si je me souvient bien.)"
+        	},
+	        "positionLeft"	: "270px",
+	        "positionTop"	: "629px",
+	        "transition"	: "none"
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "299px",
+	        "positionTop"	: "536px",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Chenipan.gif",
+	        	"positionLeft"	: "385px",
+	        	"positionTop"	: "407px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "348px",
+	        "positionTop"	: "542px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Chenipan.gif",
+	        	"positionLeft"	: "385px",
+	        	"positionTop"	: "407px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (Cette forêt grouille d'insectes, mes flamme vont faire un carnage !)<br>Chenipan - Il... Il... Il à vaincu Dardargnan !",
+        		"img"		: "image/Chenipan.png"
+        	},
+	        "positionLeft"	: "374px",
+	        "positionTop"	: "434px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Chenipan.gif",
+	        	"positionLeft"	: "385px",
+	        	"positionTop"	: "407px"
+	        }],
+	        "imgFight"		: "image/Chenipan.png"
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "370px",
+	        "positionTop"	: "335px",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Aspicot.gif",
+	        	"positionLeft"	: "373px",
+	        	"positionTop"	: "300px"
+	        }],
+	        "imgFight"		: "image/Aspicot.png"
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "373px",
+	        "positionTop"	: "124px",
+	        "transition"	: "1.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Coconfort.gif",
+	        	"positionLeft"	: "373px",
+	        	"positionTop"	: "92px"
+	        }],
+	        "imgFight"		: "image/Coconfort.png"
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "260px",
+	        "positionTop"	: "115px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Chrysacier.gif",
+	        	"positionLeft"	: "183px",
+	        	"positionTop"	: "80px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "260px",
+	        "positionTop"	: "174px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Chrysacier.gif",
+	        	"positionLeft"	: "183px",
+	        	"positionTop"	: "80px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "214px",
+	        "positionTop"	: "179px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Chrysacier.gif",
+	        	"positionLeft"	: "183px",
+	        	"positionTop"	: "80px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "204px",
+	        "positionTop"	: "109px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Chrysacier.gif",
+	        	"positionLeft"	: "183px",
+	        	"positionTop"	: "80px"
+	        }],
+	        "imgFight"		: "image/Chrysacier.png"
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "206px",
+	        "positionTop"	: "33px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Pikachu.gif",
+	        	"positionLeft"	: "52px",
+	        	"positionTop"	: "26px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "133px",
+	        "positionTop"	: "37px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Pikachu.gif",
+	        	"positionLeft"	: "52px",
+	        	"positionTop"	: "26px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "136px",
+	        "positionTop"	: "157px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Pikachu.gif",
+	        	"positionLeft"	: "52px",
+	        	"positionTop"	: "26px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+	        "positionLeft"	: "73px",
+	        "positionTop"	: "158px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Pikachu.gif",
+	        	"positionLeft"	: "52px",
+	        	"positionTop"	: "26px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Forêt_de_Jade.png",
+        	"text"			: {
+         		"text"		: "Arcanin - C'est Pikachu leur boss !? Mais c'est nul un pikachu !<br>Pikachu - Juge pas.",
+        		"img"		: "image/Pikachu.png"
+        	},
+	        "positionLeft"	: "73px",
+	        "positionTop"	: "60px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Pikachu.gif",
+	        	"positionLeft"	: "52px",
+	        	"positionTop"	: "26px"
+	        }],
+	        "imgFight"		: "image/Pikachu.png"
+        }]
+    },
+
+    "4": {
+    	"positionLeft"	: "385px",
+        "positionTop"	: "139px",
+        "orientation"	: "image/ArcaninTop.gif",
+        "script"		: [{
+        	"imgSrc"		: "image/Argenta.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (Tien ?! Un onix mais toujours personne). Onix, pourquoi il n'y a jamais personne ?<br>Onix - Ne me dit pas que tu n'a rien vus !<br>Arcanin - Vu quoi ?<br>Onix - Eux.<br>Arcanin - (Personne ne me dit qui !)",
+        		"img"		: "image/Onix.png"
+        	},
+	        "positionLeft"	: "218px",
+	        "positionTop"	: "552px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "none",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Onix.gif",
+	        	"positionLeft"	: "690px",
+	        	"positionTop"	: "120px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Argenta.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (Pas de temps à perdre avec lui !)",
+        		"img"		: "image/Onix.png"
+        	},
+	        "positionLeft"	: "694px",
+	        "positionTop"	: "547px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "4s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Onix.gif",
+	        	"positionLeft"	: "690px",
+	        	"positionTop"	: "120px"
+	        }]
+	    }, {
+         	"imgSrc"		: "image/Argenta.png",
+	        "positionLeft"	: "699px",
+	        "positionTop"	: "424px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "2s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Onix.gif",
+	        	"positionLeft"	: "690px",
+	        	"positionTop"	: "120px"
+	        }]
+	    }, {
+         	"imgSrc"		: "image/Argenta.png",
+	        "positionLeft"	: "762px",
+	        "positionTop"	: "422px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Onix.gif",
+	        	"positionLeft"	: "690px",
+	        	"positionTop"	: "120px"
+	        }]
+	    }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+	        "positionLeft"	: "277px",
+	        "positionTop"	: "187px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "0.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sabelette.gif",
+	        	"positionLeft"	: "483px",
+	        	"positionTop"	: "321px"
+	        }],
+	        "startPosition"	: {
+	        	"positionLeft"	: "214px",
+	        	"positionTop"	: "187px"
+	        }
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+	        "positionLeft"	: "277px",
+	        "positionTop"	: "294px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "0.8s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sabelette.gif",
+	        	"positionLeft"	: "483px",
+	        	"positionTop"	: "321px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+        	"text"			: {
+        		"text"		: "Arcanin - (Un peu d'entrainement ça ne fait pas de mal.)<br>Sabelette - (Mais non pas moi ! J'ai rien demandé !)",
+        		"img"		: "image/Sabelette.png"
+        	},
+	        "positionLeft"	: "439px",
+	        "positionTop"	: "308px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "0.9s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sabelette.gif",
+	        	"positionLeft"	: "483px",
+	        	"positionTop"	: "321px"
+	        }],
+	        "imgFight"		: "image/Sabelette.png"
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+	        "positionLeft"	: "500px",
+	        "positionTop"	: "78px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Piafabec.gif",
+	        	"positionLeft"	: "682px",
+	        	"positionTop"	: "53px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+	        "positionLeft"	: "658px",
+	        "positionTop"	: "78px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "0.8s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Piafabec.gif",
+	        	"positionLeft"	: "682px",
+	        	"positionTop"	: "53px"
+	        }],
+	        "imgFight"		: "image/Piafabec.png"
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+	        "positionLeft"	: "664px",
+	        "positionTop"	: "269px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Rondoudou.gif",
+	        	"positionLeft"	: "703px",
+	        	"positionTop"	: "346px"
+	        }],
+	        "imgFight"		: "image/Rondoudou.png"
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+	        "positionLeft"	: "967px",
+	        "positionTop"	: "269px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "1.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Arbok.gif",
+	        	"positionLeft"	: "1317px",
+	        	"positionTop"	: "424px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+	        "positionLeft"	: "967px",
+	        "positionTop"	: "424px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Arbok.gif",
+	        	"positionLeft"	: "1317px",
+	        	"positionTop"	: "424px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+         	"text"			: {
+         		"text"		: "Arcanin - (Un Arbok, c'est fort, je crois...)"
+         	},
+	        "positionLeft"	: "1268px",
+	        "positionTop"	: "431px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "1.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Arbok.gif",
+	        	"positionLeft"	: "1317px",
+	        	"positionTop"	: "424px"
+	        }],
+	        "imgFight"		: "image/Arbok.png"
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+         	"text"			: {
+         		"text"		: "Arcanin - (Un Arbok, c'est nul, je dirais... en PU)<br><br><br><br><br>Le PU est le plus bas tier jouable en stratégie Pokémon."
+         	},
+	        "positionLeft"	: "1268px",
+	        "positionTop"	: "540px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Mew.gif",
+	        	"positionLeft"	: "1791px",
+	        	"positionTop"	: "319px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+	        "positionLeft"	: "1773px",
+	        "positionTop"	: "540px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "2.5s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Mew.gif",
+	        	"positionLeft"	: "1791px",
+	        	"positionTop"	: "319px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+        	"text"			: {
+         		"text"		: "Arcanin - (Un Mew, ça peux être intéressant... Il font quoi tous là ?)<br>Mew - Arcanin, désolé, j'ai accépté leur aide pour me protéger mais ne leur ai pas précisé de ne pas s'en prendre aux rescapés.",
+        		"img"		: "image/Mew.png"
+        	},
+	        "positionLeft"	: "1773px",
+	        "positionTop"	: "396px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "3s",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Mew.gif",
+	        	"positionLeft"	: "1791px",
+	        	"positionTop"	: "319px"
+	        },{
+	        	"imgMap"		: "image/Roucoups.gif",
+	        	"positionLeft"	: "1810px",
+	        	"positionTop"	: "343px"
+	        },{
+	        	"imgMap"		: "image/Dardargnan.gif",
+	        	"positionLeft"	: "1736px",
+	        	"positionTop"	: "347px"
+	        },{
+	        	"imgMap"		: "image/Pikachu.gif",
+	        	"positionLeft"	: "1802px",
+	        	"positionTop"	: "367px"
+	        },{
+	        	"imgMap"		: "image/Sablaireau.gif",
+	        	"positionLeft"	: "1760px",
+	        	"positionTop"	: "325px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+        	"text"			: {
+         		"text"		: "Mew - Mais... Sablaireau en a après toi, tu a attaquer Sabelette.<br>Arcanin - Mais ils m'attaquaient tous ! Sauf lui... C'est vrai...",
+        		"img"		: "image/Mew.png"
+        	},
+	        "positionLeft"	: "1773px",
+	        "positionTop"	: "396px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0s",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Mew.gif",
+	        	"positionLeft"	: "1791px",
+	        	"positionTop"	: "319px"
+	        },{
+	        	"imgMap"		: "image/Roucoups.gif",
+	        	"positionLeft"	: "1810px",
+	        	"positionTop"	: "343px"
+	        },{
+	        	"imgMap"		: "image/Dardargnan.gif",
+	        	"positionLeft"	: "1736px",
+	        	"positionTop"	: "347px"
+	        },{
+	        	"imgMap"		: "image/Pikachu.gif",
+	        	"positionLeft"	: "1802px",
+	        	"positionTop"	: "367px"
+	        },{
+	        	"imgMap"		: "image/Sablaireau.gif",
+	        	"positionLeft"	: "1760px",
+	        	"positionTop"	: "325px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Route_3_(Kanto).png",
+        	"text"			: {
+         		"text"		: "Sablaireau - À moi de gagné cette fois !<br>Arcanin - Ni pense pas une seconde !",
+        		"img"		: "image/Sablaireau.png"
+        	},
+	        "positionLeft"	: "1773px",
+	        "positionTop"	: "396px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "0s",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Mew.gif",
+	        	"positionLeft"	: "1791px",
+	        	"positionTop"	: "319px"
+	        },{
+	        	"imgMap"		: "image/Roucoups.gif",
+	        	"positionLeft"	: "1810px",
+	        	"positionTop"	: "343px"
+	        },{
+	        	"imgMap"		: "image/Dardargnan.gif",
+	        	"positionLeft"	: "1736px",
+	        	"positionTop"	: "347px"
+	        },{
+	        	"imgMap"		: "image/Pikachu.gif",
+	        	"positionLeft"	: "1802px",
+	        	"positionTop"	: "367px"
+	        },{
+	        	"imgMap"		: "image/Sablaireau.gif",
+	        	"positionLeft"	: "1760px",
+	        	"positionTop"	: "325px"
+	        }],
+	        "imgFight"			: "image/Sablaireau.png"
+        }]
+    },
+
+    "5": {
+    	"positionLeft"	: "660px",
+        "positionTop"	: "140px",
+        "orientation"	: "image/ArcaninBottom.gif",
+        "text"			: "Arcanin continua son chemin dans une grotte, il la traversa sans trop de difficulté mais en sortant il vit Azuria, tant mieux me direz vous, mais devant lui... il y avait... DE L'EAU ! Et oui, il allait devoir se mouiller les pattes.<br><br><br><br>Arcanin est un Pokémon de type feu il déteste l'eau.",
+        "script"		: [{
+        	"imgSrc"		: "image/Azuria.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (Il y a quelqu'un !)",
+        		"img"		: "image/Sbire_Rocket♂.png"
+        	},
+	        "positionLeft"	: "78px",
+	        "positionTop"	: "131px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "none",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♂.png",
+	        	"positionLeft"	: "580px",
+	        	"positionTop"	: "130px"
+	        }]
+        }, {
+         	"imgSrc"		: "image/Azuria.png",
+        	"text"			: {
+        		"text"		: "Arcanin - Bonjour, excusez...<br>Sbires Rocket - (C'est lui ! Celui qui c'est échapé ! C'est aussi ma chance, si je le ramene... Oui, à moi la richesse.) Oh, mais c'est toi, je te cherche partout !<br>Arcanin - Mais je ne te connais pas !<br>Sbires Rocket - (IL SE SOUVIENT PAS ! Parfait.)<br>Arcanin - (Il vaut mieux pour moi que je m'en débarrasse.)",
+        		"img"		: "image/Sbire_Rocket♂.png"
+        	},
+	        "positionLeft"	: "539px",
+	        "positionTop"	: "131px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "4s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♂.png",
+	        	"positionLeft"	: "580px",
+	        	"positionTop"	: "130px",
+	        	"imgFight"		: "image/Sbires_Rocket.png"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png",
+	        "startPosition"	: {
+	        	"positionLeft"	: "78px",
+	        	"positionTop"	: "131px"
+	        }
+	    }, {
+         	"imgSrc"		: "image/Azuria.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (Il y en a d'autre.)",
+        		"img"		: "image/Sbire_Rocket♂.png"
+        	},
+	        "positionLeft"	: "554px",
+	        "positionTop"	: "397px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "3s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♂.png",
+	        	"positionLeft"	: "572px",
+	        	"positionTop"	: "422px",
+	        	"imgFight"		: "image/Sbires_Rocket.png"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png"
+        }, {
+         	"imgSrc"		: "image/Azuria.png",
+	        "positionLeft"	: "543px",
+	        "positionTop"	: "487px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♀.png",
+	        	"positionLeft"	: "570px",
+	        	"positionTop"	: "502px"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png"
+        }, {
+         	"imgSrc"		: "image/Azuria.png",
+	        "positionLeft"	: "226px",
+	        "positionTop"	: "516px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "3s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♂.png",
+	        	"positionLeft"	: "174px",
+	        	"positionTop"	: "509px"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png"
+        }, {
+         	"imgSrc"		: "image/Azuria.png",
+        	"text"			: {
+         		"text"		: "Arcanin - (C'est le dernier !)",
+        		"img"		: "image/Sbire_Rocket♀.png"
+        	},
+	        "positionLeft"	: "226px",
+	        "positionTop"	: "549px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♀.png",
+	        	"positionLeft"	: "201px",
+	        	"positionTop"	: "579px"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png"
+        }]
+    },
+
+    "6": {
+    	"positionLeft"	: "676px",
+        "positionTop"	: "240px",
+        "orientation"	: "image/ArcaninBottom.gif",
+        "text"			: "Arcanin arriva à Safrania, il avait hâte d'en savoir plus sur toute cette histoire.",
+        "script"		: [{
+        	"imgSrc"		: "image/Safrania.png",
+        	"text"			: {
+        		"text"		: "Arcanin - Apprend m'en plus !<br>Sbire Rocket - (Il vient tout seul alors mieux vaut le capturer avant !)",
+        		"img"		: "image/Sbire_Rocket♂.png"
+        	},
+	        "positionLeft"	: "347px",
+	        "positionTop"	: "183px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "none",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♂.png",
+	        	"positionLeft"	: "381px",
+	        	"positionTop"	: "204px"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png"
+        }, {
+         	"imgSrc"		: "image/Safrania.png",
+	        "positionLeft"	: "154px",
+	        "positionTop"	: "220px",
+	        "orientation"	: "image/ArcaninLeft.gif",
+	        "transition"	: "2s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♂.png",
+	        	"positionLeft"	: "121px",
+	        	"positionTop"	: "184px"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png"
+	    }, {
+         	"imgSrc"		: "image/Safrania.png",
+        	"text"			: {
+        		"text"		: "Arcanin - (pourquoi porte t'ils tous un costume !)"
+        	},
+	        "positionLeft"	: "136px",
+	        "positionTop"	: "447px",
+	        "orientation"	: "image/ArcaninBottom.gif",
+	        "transition"	: "3s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♂.png",
+	        	"positionLeft"	: "146px",
+	        	"positionTop"	: "486px"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png"
+        }, {
+         	"imgSrc"		: "image/Safrania.png",
+	        "positionLeft"	: "423px",
+	        "positionTop"	: "462px",
+	        "orientation"	: "image/ArcaninRight.gif",
+	        "transition"	: "3s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Sbire_Rocket♀.png",
+	        	"positionLeft"	: "479px",
+	        	"positionTop"	: "450px"
+	        }],
+	        "imgFight"		: "image/Sbires_Rocket.png"
+        }, {
+         	"imgSrc"		: "image/Safrania.png",
+        	"text"			: {
+         		"text"		: "Arcanin - (GIOVANIE ! Mais oui je me souvient)",
+        		"img"		: "image/Giovanniimg.png"
+        	},
+	        "positionLeft"	: "452px",
+	        "positionTop"	: "429px",
+	        "orientation"	: "image/ArcaninTop.gif",
+	        "transition"	: "1s linear",
+	        "poke"			: [{
+	        	"imgMap"		: "image/Giovanni.png",
+	        	"positionLeft"	: "450px",
+	        	"positionTop"	: "397px"
+	        }],
+	        "end"			: "image/Giovanniimg.png"
+        }]
+    }
+}
