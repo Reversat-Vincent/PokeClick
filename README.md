@@ -4,4 +4,4 @@
 >
 > Coder ce jeu m'a permis d'apprendre à coder en JavaScript, un des languages beaucoup utilisé chez Inova Software. J'ai également pu découvrir le JSON.
 
-Code obsolète, mais présenté comme il a été codé en 2017.
+Le code fonctionnait en 2017 mais ne fonctionne plus actuellement en raison d'une erreur à l'import du fichier JSON.
